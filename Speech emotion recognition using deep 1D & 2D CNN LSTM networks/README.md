@@ -16,6 +16,6 @@ The maximum validation accuracy obtained for audio signals with 1D CNN-LSTM is a
 
 Developed and tested on the following:
 
-Python 3.6 keras 2.2.4 Librosa 0.6.2
+Python 3.6 keras 2.3.1 Librosa 0.6.3
 
 Help taken for 1D CNN-LSTM from [here](https://github.com/vandana-rajan/1D-Speech-Emotion-Recognition)
