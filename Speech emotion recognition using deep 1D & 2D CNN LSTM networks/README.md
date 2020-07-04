@@ -11,8 +11,8 @@ EmoDB database can be downloaded from the following website
 
 http://www.emodb.bilderbar.info/download/
 
-There are 7 emotional classes and the validation accuracy obtained is ~78% for 2D CNN-LSTM using log-mel spectrogram as input feature.
-The maximum validation accuracy obtained for audio signals with 1D CNN-LSTM is around ~64%.
+There are 7 emotional classes and the validation accuracy obtained is ~78% for 2D CNN-LSTM using log-mel spectrogram of 8s of audio signals as input feature.
+The maximum validation accuracy obtained for audio signals of 1s of length with 1D CNN-LSTM is around ~64%.
 
 Developed and tested on the following:
 
