@@ -19,3 +19,8 @@ Developed and tested on the following:
 Python 3.6 keras 2.3.1 Librosa 0.6.3
 
 Help taken for 1D CNN-LSTM from [here](https://github.com/vandana-rajan/1D-Speech-Emotion-Recognition)
+
+### Cross Lingual Experiments
+
+A few cross lingual experiments are also done on Berlin Emodb German dataset, Italian Emovo dataset ([Paper](https://art.torvergata.it/handle/2108/97109)) and Urdu dataset ([Paper](https://arxiv.org/pdf/1812.10411.pdf)) on the same Deep Learning Model Architecture. 
+Experiments shows that the combinations of datasets from two different languages can better help classification than the samples from same languages.
